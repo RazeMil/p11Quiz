@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">p11 Quiz</string>
+    <string name="num">Enter Account Number</string>
+    <string name="sub">Submit</string>
+</resources>
